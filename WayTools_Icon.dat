@@ -1,0 +1,28 @@
+Obj=menu
+name=WayTools_Icon_Rails
+Image[0]=> WayTools_Icon.0.5
+-----------------
+Obj=menu
+name=WayTools_Icon_Tunnel
+Image[0]=> WayTools_Icon.0.1
+-----------------
+Obj=menu
+name=WayTools_Icon_WayObj
+Image[0]=> WayTools_Icon.0.2
+-----------------
+Obj=menu
+name=WayTools_Icon_WayBridge
+Image[0]=> WayTools_Icon.0.3
+-----------------
+Obj=menu
+name=WayTools_Icon_WaySignal
+Image[0]=> WayTools_Icon.0.4
+-----------------
+Obj=menu
+name=WayTools_Icon_WayHome
+Image[0]=> WayTools_Icon.1.0
+-----------------
+Obj=menu
+name=WayTools_Icon_WayStation
+Image[0]=> WayTools_Icon.1.1
+-----------------
